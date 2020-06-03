@@ -1,0 +1,13 @@
+h1 {
+    color: gold;
+    text-align: center;
+}
+
+* {
+    border: solid;
+}
+.header {
+    background-color: sandybrown;
+    display: flex;
+    justify-content: space-between;
+}
